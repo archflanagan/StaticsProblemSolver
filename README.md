@@ -8,4 +8,4 @@ This is a project created by Arch Flanagan, and is a work in progress as of 5/21
 ## Tasks
 Create a UML Diagram. **Status:** Incomplete
 
-Create a program skeleton **Status:** Incomplete
+Create a program skeleton. **Status:** Incomplete
